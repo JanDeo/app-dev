@@ -1,6 +1,6 @@
 # app-dev
 My first repository
-#Heading My Favorite Movies/Series
-###Heading A silent voice
+# My Favorite Movies/Series
+### A silent voice
 **Your Name**
 *Weathering with you*
